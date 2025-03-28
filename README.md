@@ -2,13 +2,12 @@
 
 A cloud-based taco ordering system built with **Spring Boot**, **Spring Security**, and **Thymeleaf**.
 
-## 🚀 Features
+## 🚧 Features to be implemented
 - User registration & authentication
 - Custom taco creation
 - Order submission & history
-- RESTful API endpoints
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 - **Backend**: Spring Boot, Spring Data JPA, Spring Security
 - **Frontend**: Thymeleaf
 - **Database**: H2 (dev) / SQLite (prod)
